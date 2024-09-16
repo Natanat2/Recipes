@@ -1,9 +1,7 @@
 from django.shortcuts import render
-
 from rest_framework import viewsets
-
-from recipes.recipesbase.serializers import *
-from recipes.recipesbase.models import *
+from .serializers import CategorySerializer, RecipeSerializer
+from .models import Category, Recipe
 
 
 class CategoryViewset(viewsets.ModelViewSet):
@@ -14,3 +12,7 @@ class CategoryViewset(viewsets.ModelViewSet):
 class RecipeViewset(viewsets.ModelViewSet):
     queryset = Recipe.objects.all()
     serializer_class = RecipeSerializer
+
+
+def index(request):
+    return render(request, 'index.html')

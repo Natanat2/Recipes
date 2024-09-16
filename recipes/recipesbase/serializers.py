@@ -2,12 +2,6 @@ from .models import *
 from rest_framework import serializers
 
 
-class CategorySerializer(serializers.HyperlinkedModelSerializer):
-    class Meta:
-        model = Category
-        fields = '__all__'
-
-
 class RecipeSerializer(serializers.HyperlinkedModelSerializer):
     image = serializers.ImageField(max_length = None, use_url = True)
     recipeCategory = serializers.HyperlinkedRelatedField(
@@ -17,4 +11,12 @@ class RecipeSerializer(serializers.HyperlinkedModelSerializer):
 
     class Meta:
         model = Recipe
+        fields = '__all__'
+
+
+class CategorySerializer(serializers.HyperlinkedModelSerializer):
+    recipes = RecipeSerializer(many = True, read_only = True)
+
+    class Meta:
+        model = Category
         fields = '__all__'

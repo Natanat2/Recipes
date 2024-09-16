@@ -15,7 +15,7 @@ class Recipe(models.Model):
     products = models.TextField(null = True)
     image = models.ImageField(upload_to = 'images/', default = 'default.jpg')
     steps = models.TextField(null = True)
-    recipeCategory = models.ForeignKey(Category, on_delete = models.CASCADE)
+    recipeCategory = models.ForeignKey(Category, on_delete = models.CASCADE, related_name = 'recipes')
 
     def __str__(self):
         return self.nameRecipe
