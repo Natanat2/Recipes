@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="change serializers">
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="back done">
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/befstr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/bew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/borw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/buter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/grenki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/hachapuri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/okrowka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/soup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/media/images/zharkoe.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/befstr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/bew.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/borw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/buter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/grenki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/hachapuri.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/okrowka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/soup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/images/zharkoe.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipesbase/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726514501451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="back done">
+      <option name="closed" value="true" />
+      <created>1726515556990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726515556990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +120,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="add frontend" />
     <MESSAGE value="change serializers" />
-    <option name="LAST_COMMIT_MESSAGE" value="change serializers" />
+    <MESSAGE value="back done" />
+    <option name="LAST_COMMIT_MESSAGE" value="back done" />
   </component>
 </project>
