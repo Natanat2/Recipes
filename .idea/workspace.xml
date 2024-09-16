@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="add frontend">
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="change serializers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipesbase/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/recipesbase/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipesbase/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +76,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726511784259</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change serializers">
+      <option name="closed" value="true" />
+      <created>1726514501451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726514501451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="add frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="add frontend" />
+    <MESSAGE value="change serializers" />
+    <option name="LAST_COMMIT_MESSAGE" value="change serializers" />
   </component>
 </project>
