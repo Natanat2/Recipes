@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Recipes for dishes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/befstr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/bew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/borw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/buter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/grenki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/hachapuri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/okrowka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/soup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/images/zharkoe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipes/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipes/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/migrations/0002_recipe_description_recipe_image_recipe_products_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/recipesbase/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2m9v5R0Fd3cUNpJpsBmoJ5oDDmM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="" />
+      <created>1726501422960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726501422960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
