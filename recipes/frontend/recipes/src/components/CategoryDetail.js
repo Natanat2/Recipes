@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
+import Categories from "./Categories";
 
 const CategoryDetail = () => {
   const { id } = useParams();
@@ -18,6 +19,7 @@ const CategoryDetail = () => {
 
   return (
     <div>
+      <Categories />
       <h1>{category.name}</h1>
       <p>{category.descriptionCategory}</p>
       <h2>Рецепты:</h2>

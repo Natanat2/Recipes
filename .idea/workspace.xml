@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done 100%" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726557923950</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="done 100%">
+      <option name="closed" value="true" />
+      <created>1726558868129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726558868129</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +149,7 @@
     <MESSAGE value="add index" />
     <MESSAGE value="change hyper na model" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="done 100%" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 100%" />
   </component>
 </project>
