@@ -30,6 +30,10 @@
 
 ## `cd recipes/frontend/recipes`
 
+устанавливаем зависимости
+
+## `npm install`
+
 запускаем React проект в IDE
 
 ## `npm start`
