@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done 100%">
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done 100% add requ">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
       <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes\recipes\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes" />
       <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes\recipes\templates" />
     </key>
   </component>
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726559424683</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="done 100% add requ">
+      <option name="closed" value="true" />
+      <created>1726562307379</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726562307379</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +170,7 @@
     <MESSAGE value="change hyper na model" />
     <MESSAGE value="done" />
     <MESSAGE value="done 100%" />
-    <option name="LAST_COMMIT_MESSAGE" value="done 100%" />
+    <MESSAGE value="done 100% add requ" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 100% add requ" />
   </component>
 </project>
