@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done readme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/natan/PycharmProjects/test_Project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/natan/PycharmProjects/test_Project&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes\recipes" />
@@ -51,6 +49,11 @@
       <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes" />
       <recent name="C:\Users\natan\PycharmProjects\Recipes for dishes\recipes\templates" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install -r requirements.txt" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -180,7 +183,71 @@
       <option name="project" value="LOCAL" />
       <updated>1726563281459</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564126782</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564126782</updated>
+    </task>
+    <task id="LOCAL-00016" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564261880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564261880</updated>
+    </task>
+    <task id="LOCAL-00017" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564295386</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564295386</updated>
+    </task>
+    <task id="LOCAL-00018" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564394710</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564394710</updated>
+    </task>
+    <task id="LOCAL-00019" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564558258</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564558258</updated>
+    </task>
+    <task id="LOCAL-00020" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564596823</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564596823</updated>
+    </task>
+    <task id="LOCAL-00021" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564687758</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564687758</updated>
+    </task>
+    <task id="LOCAL-00022" summary="done readme">
+      <option name="closed" value="true" />
+      <created>1726564960263</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726564960263</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
