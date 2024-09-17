@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="add index">
-      <change afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/CategoryDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/RecipeDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Recipes.js" afterDir="false" />
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="change hyper na model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/CategoryDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/CategoryDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/RecipeDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/RecipeDetail.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipesbase/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726547291165</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change hyper na model">
+      <option name="closed" value="true" />
+      <created>1726556499976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726556499976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +138,7 @@
     <MESSAGE value="change serializers" />
     <MESSAGE value="back done" />
     <MESSAGE value="add index" />
-    <option name="LAST_COMMIT_MESSAGE" value="add index" />
+    <MESSAGE value="change hyper na model" />
+    <option name="LAST_COMMIT_MESSAGE" value="change hyper na model" />
   </component>
 </project>

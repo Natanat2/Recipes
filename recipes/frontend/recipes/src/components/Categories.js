@@ -1,4 +1,3 @@
-// src/components/Categories.js
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
@@ -15,7 +14,7 @@ const Categories = () => {
 
   return (
     <div>
-      <h1>Categories</h1>
+      <h1>Категории</h1>
       <ul>
         {categories.map((category) => (
           <li key={category.id}>

@@ -1,7 +1,7 @@
-// src/components/RecipeDetail.js
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
+import Categories from "./Categories";
 
 const RecipeDetail = () => {
   const { id } = useParams();
@@ -18,6 +18,7 @@ const RecipeDetail = () => {
 
   return (
     <div>
+      <Categories />
       <h1>{recipe.nameRecipe}</h1>
       <img src={recipe.image} alt={recipe.nameRecipe} />
       <p>{recipe.description}</p>
@@ -25,8 +26,6 @@ const RecipeDetail = () => {
       <p>{recipe.products}</p>
       <h2>Steps</h2>
       <p>{recipe.steps}</p>
-      <h2>Category</h2>
-      <p>{recipe.recipeCategory.name}</p>
     </div>
   );
 };
