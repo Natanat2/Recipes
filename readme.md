@@ -1,16 +1,21 @@
 backend:
 
-cd recipes 
+заходим в папку с проектом
+##cd recipes 
 
-python -m venv venv
+создаем виртуальное окружение
+##python -m venv venv
 
-source venv/bin/activate  # 
+активируем его
+##source venv/bin/activate 
 
-(или venv\Scripts\activate для Windows)
+##(или venv\Scripts\activate для Windows)
 
-pip install -r requirements.txt
+устанавливаем зависимости
+##pip install -r requirements.txt
 
-py manage.py runserver
+запускаем проект в IDE
+###py manage.py runserver
 
 ----
 
