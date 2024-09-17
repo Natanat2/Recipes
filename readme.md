@@ -26,6 +26,10 @@
 
 # frontend:
 
-cd recipes/frontend/recipes
+заходим в папку с проектом в IDE
 
-npm start
+## `cd recipes/frontend/recipes`
+
+запускаем React проект в IDE
+
+## `npm start`
