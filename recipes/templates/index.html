@@ -1,0 +1,15 @@
+{% block content %}
+<h1>Категория рецептов</h1>
+<ul>
+    {% for category in categories %}
+    <li>{{ category.name }}</li>
+    {% endfor %}
+</ul>
+
+<h1>Список рецептов</h1>
+<ul>
+    {% for recipe in recipes %}
+    <li>{{ recipe.nameRecipe }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

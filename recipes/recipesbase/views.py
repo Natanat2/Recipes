@@ -15,4 +15,11 @@ class RecipeViewset(viewsets.ModelViewSet):
 
 
 def index(request):
-    return render(request, 'index.html')
+    categories = Category.objects.all()
+    recipes = Recipe.objects.all()
+
+    context = {
+        'categories': categories,
+        'recipes' : recipes
+    }
+    return render(request, 'index.html', context)
