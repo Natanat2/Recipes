@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="change hyper na model">
+    <list default="true" id="2a23ad67-6820-4dfe-87d6-48932a8386ee" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/Categories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/CategoryDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/CategoryDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/RecipeDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/components/RecipeDetail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/frontend/recipes/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/recipes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/recipes/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726556499976</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="done">
+      <option name="closed" value="true" />
+      <created>1726557923950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726557923950</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +143,7 @@
     <MESSAGE value="back done" />
     <MESSAGE value="add index" />
     <MESSAGE value="change hyper na model" />
-    <option name="LAST_COMMIT_MESSAGE" value="change hyper na model" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
